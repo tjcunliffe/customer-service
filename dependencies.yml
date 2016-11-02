@@ -1,0 +1,6 @@
+name: customer-service
+dependencies:
+  - salesforce-api
+  - amazon-s3-profile-images
+  - authentication-service
+  - legacy-customer-sor
